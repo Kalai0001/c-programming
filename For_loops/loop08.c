@@ -19,4 +19,5 @@ int main(){
     //     rev=(rev*10)+a;
     //     num=num/10; 
     // }
+
     // printf("%d",rev);
