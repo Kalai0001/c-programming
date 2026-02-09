@@ -104,4 +104,5 @@ int main(){
 //     // printf("%d\n",negmax);
 //     int z=negmax*min;
 //     printf("%d",z);
+
 // }
