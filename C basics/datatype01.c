@@ -6,4 +6,5 @@ int main(){
     int b=99;
     printf("%d",b);
     return 0;
+
 }
