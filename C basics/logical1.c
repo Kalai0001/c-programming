@@ -5,4 +5,5 @@ int main(){
     int x=(a && b);
     printf("%d",x);
     return 0;
+
 }
