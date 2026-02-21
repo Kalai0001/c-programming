@@ -10,4 +10,5 @@ int main(){
    int z=x+y;
    printf("%d",z);
    return 0;
+
 }
