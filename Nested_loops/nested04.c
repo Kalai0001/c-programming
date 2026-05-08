@@ -8,5 +8,6 @@ int main(){
         }
         printf("\n");
     }
+    sc.close();
 
 }
