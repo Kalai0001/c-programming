@@ -15,6 +15,7 @@ int main(){
     int num;
     scanf("%d",&num);
     int z=sum(num);
+
     printf("%d",z);
     return 0;
 }
